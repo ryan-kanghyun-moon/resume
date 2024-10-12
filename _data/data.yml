@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ryan Moon
@@ -14,7 +14,8 @@ sidebar:
 
     # Sidebar links
     email: kanghyun323@gmail.com
-    phone: 010-2619-8449 / 778-683-9016
+    phone: |
+          +82 010-2619-8449
     timezone: Korea Standard Time
     citizenship: Korean
     website:  #do not add http://
@@ -43,37 +44,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      4th year Business and Computer Science, University of British Columbia.
+      Passionate about technology and excited to talk about what programming can really achieve.
+	  
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Business and Computer Science Combined Major
+        university: University of British Columbia
+        time: 2019 - 2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          4th year in Business and Computer Science Combined degree, where the students 
+		  get to be exposed deep into both the CS and Business world.
+            - 4.3 GPA, Dean's List
+            - Sauder School of Business Scholarship
+            - Trek Excellence Scholarship (x2)
+            - Key Cources:  Advanced Algorithm Design and Analysis (CPSC 420)
+
+
 
 experiences:
     title: Experiences
