@@ -44,8 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      4th year Business and Computer Science, University of British Columbia.
-      Passionate about technology and excited to talk about what programming can really achieve.
+      4th year Business and Computer Science major, University of British Columbia. <br>
+      Worked at HP Anyware making a client for remote computing using C++ and Linux. <br>
+      Currently (and proudly) serving in the Republic of Korea Air Force.
   
 education:
     title: Education
@@ -67,44 +68,42 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Frontend Developer
+        time: Jan 2024 - Apr 2024
+        company: Unispace, remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Collaborated in a team of three to build a web service for a student initiated organization Unispace
+           - Built mobile-view of the web service, utilizing **React.js**
+           - Implemented the mobile friendly internship search page by adapting and programming from a desktop friendly component.
+      - role: Associate Software Developer
+        time: Sep 2022 - Aug 2023
+        company: HP Anyware, Burnaby BC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+         Collaborated with 5 other teammates and other teams to develop backend feature for a remote desktop platform 
+         using **C++** while practicing **CI/CD** using **Cloud City** and **Git** built on a variation of **Linux**.
+           - Implemented a **bash shell script** to create and transport a support bundle to show all logs on a **Linux** development environment
+      - role: Software Engineer (Full Stack)
+        time: Sep 2021 - Apr 2022
+        company: UBC Launchpad, UBC Vancouver
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Achieved 50% total time reduction and 100% cost reduction by integrating workflows that formerly required 3 different services for internal interview-booking service 
+          - Designed and implemented backend **REST APIs** for creating interview events using **Firebase**, **Express**, and **Typescript**
+          - Implemented interviewer-side frontend pages including showing availabilities and creating interview events using **React.js** and **Typescript**
 
+      - role: Teaching Assistant 
+        time: Jan 2022 - Apr 2022
+        company: University of British Columbia, Vancouver BC
+        details: |
+           Worked as a teacher assistant for CPSC 213: *Introduction to Computer Systems*
+            - Prepared and delivered lab materials for 30+ students each session on both online and offline settings while encouraging students to engage in class
+            - Furthered understanding of course materials such as **threads** and **computer architectures** by familiarizing with **C**, **C++**, and **basic assembly language**
+      - role: Teaching Assistant 
+        time: Sep 2020 - Dec 2020
+        company: University of British Columbia, Vancouver BC
+        details: |
+           Worked as a teacher assistant for CPSC 221: *Basic Algorithms and Data Structures*
+            - Prepared and delivered lab materials for 30+ students each session on both online and offline settings while encouraging students to engage in class
+            - Furthered understanding of course materials such as **sorting algorithms** and **graphs** by familiarizing with **C++**
 certifications:
       title: Certifications
       list:
@@ -154,7 +153,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
-        link: "#hook"
+        # link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -218,23 +217,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript / Typescript
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: React
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Bash
         level: 60%
+
+      # - name: Sketch & Photoshop
+      #   level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
