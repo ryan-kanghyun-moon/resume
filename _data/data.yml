@@ -104,73 +104,70 @@ experiences:
            Worked as a teacher assistant for CPSC 221: *Basic Algorithms and Data Structures*
             - Prepared and delivered lab materials for 30+ students each session on both online and offline settings while encouraging students to engage in class
             - Furthered understanding of course materials such as **sorting algorithms** and **graphs** by familiarizing with **C++**
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+# certifications:
+      # title: Certifications
+      # list:
+      #   - name: CV Builder
+      #     start: 2020
+      #     end: 2021
+      #     organization: Microsoft
+      #     credentialid: 111-222
+      #     credentialurl: www.google.com
+      #     credentialname: Google
+      #     details: |
+      #       Details about cert. Lorem ipsum dolor sit amet, consectetur
+      #       adipiscing elit.
+      #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #       Aenean fermentum, felis vulputate suscipit accumsan,
+      #       sem enim bibendum augue, sed convallis arcu lacus at dui.
+      #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      #       Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      #       Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      #       fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      #       justo diam viverra velit, sed rhoncus leo leo eu justo.
+      #       Suspendisse placerat risus ante, sed porta nisi blandit at.
+      #   - name: Git learning
+      #     start: 2019
+      #     end:
+      #     organization: Microsoft
+      #     credentialid: 111-222
+      #     credentialurl: www.github.com
+      #     credentialname: Github
+      #     details: |
+      #       Older certification. Lorem ipsum dolor sit amet, consectetur
+      #       adipiscing elit.
+      #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #       Aenean fermentum, felis vulputate suscipit accumsan,
+      #       sem enim bibendum augue, sed convallis arcu lacus at dui.
+      #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      #       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
     assignments:
-      - title: Velocity
+      - title: QR log-in app for PCoIP desktop (2022 Innovation Week, HP Canada)
         # link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Implemented QR scanning and API calling feature on the Android app using Android Studio and Java"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Snake Game (2021 Snakathon)
+        link: "https://github.com/ryan-kanghyun-moon/2021-snakathon"
+        tagline: "Collaborated with a team of three as a lead to design and build an implementation of classic snake game using Python, Pygame, and Git"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Cellular Automaton
+        link: "https://github.com/ryan-kanghyun-moon/cellular-automata"
+        tagline: "A terminal-based cellular automaton inspired by Conway’s Game of Life using Python"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Bible Verse Scraper
+        link: "https://github.com/ryan-kanghyun-moon/bible_v1"
+        tagline: "A terminal-based web bible verse scraper that searches, parses, and formats the desired part of the website HTML by utilizing Python and Beautiful Soup"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #     title: OSS Contributions
