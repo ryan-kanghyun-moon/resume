@@ -165,6 +165,9 @@ projects:
         link: "https://github.com/ryan-kanghyun-moon/bible_v1"
         tagline: "A terminal-based web bible verse scraper that searches, parses, and formats the desired part of the website HTML by utilizing Python and Beautiful Soup"
 
+      - title: Cellular Automata / Maze
+        link: "https://ryan-kanghyun-moon.github.io/Cellular-Automata-App/"
+        tagline: "A versatile web application that allows users to create and manage their own cellular automata simulations, and also explore through the maze they created using various rules"
       # - title: Delta
       #   link: "#"
       #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
